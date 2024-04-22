@@ -13,10 +13,11 @@ export default {
 <template>
   <AppHeader></AppHeader>
 
-  <AppHero></AppHero>
+  <!-- <AppHero></AppHero> -->
   
 </template>
 
 <style lang="scss">
 @use './style/generic';
+@use './style/partiales/_variables.scss' as *;
 </style>

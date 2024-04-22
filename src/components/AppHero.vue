@@ -6,18 +6,18 @@ export default {
 
 
 <template>
-<div class="container">
-    <div class="container">
 
-<div>ciao</div>
-
-    </div>
-
-<div>ciao</div>
-
-
-
-</div>
 
 
 </template>
+
+<style>
+
+    .container-btn{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        column-gap: 10px;
+    }
+
+</style>
