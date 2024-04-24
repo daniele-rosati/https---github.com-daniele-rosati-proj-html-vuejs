@@ -10,7 +10,7 @@ export default {
             <div class="container">
                 <a class="navbar-brand" href="#">
                     <!-- <div> <img src=".\images\HelloIMG1669149323379.png" alt=""> </div> -->
-                    <div class="font"> Logo non funziona oidocro'</div>
+                    <div class="font"><img src=".images/avada-charity-mobile-logo-retina.webp" alt="Avada charity"></div>
                 </a>
 
                 <div class="navbar-nav flex-row column-gap-5">
