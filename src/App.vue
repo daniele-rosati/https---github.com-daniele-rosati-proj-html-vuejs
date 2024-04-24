@@ -1,11 +1,13 @@
 <script>
 import AppHeader from './components/AppHeader.vue';
 import AppHero from './components/AppHero.vue';
+import AppValues from './components/AppValues.vue';
 
 export default {
   components: {
     AppHeader,
-    AppHero
+    AppHero,
+    AppValues
   }
 }
 </script>
@@ -14,6 +16,8 @@ export default {
   <AppHeader></AppHeader>
 
   <AppHero></AppHero>
+
+  <AppValues></AppValues>
   
 </template>
 
