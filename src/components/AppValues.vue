@@ -13,7 +13,7 @@ export default {
             
                 <div class="col align-self-center d-flex">
                 <h2 class="font"> OUR VALUES </h2>
-                <hr class="under-title opacity-80 text-center">
+                <hr class="under-title opacity-100 text-center">
                 <p class="font">Think Big. Act Bigger.</p>
                 </div>
             </div>
