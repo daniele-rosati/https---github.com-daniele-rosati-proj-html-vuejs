@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-    <header style="background-color: aqua; background-image: url(images/HelloIMG1669149393797.jpeg); " >
+    <header style="background-color: aqua; background-image: url(images/HelloIMG1669149393797.jpeg); background-size: cover; " >
         <nav class="navbar ">
             <div class="container">
                 <a class="navbar-brand" href="#">
@@ -33,8 +33,8 @@ export default {
             </div>
         </nav>
 
-        <div class="container">
-            <div class="container text-center container-header">
+        <div class="container-xl">
+            <div id="container-header" class="container text-center ">
 
                     <div class="font" style="font-size: 60px;">MAKE A DIFFERENCE</div>
                     <p class="font">As long as poverty, injustice & inequality persist, none of us can truly rest</p>
@@ -59,7 +59,7 @@ header{
         
     }
 
-    .container-header{
+    #container-header{
         padding: 200px;
        
     }

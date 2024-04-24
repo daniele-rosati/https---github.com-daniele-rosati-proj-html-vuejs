@@ -13,7 +13,7 @@ export default {
 <template>
   <AppHeader></AppHeader>
 
-  <!-- <AppHero></AppHero> -->
+  <AppHero></AppHero>
   
 </template>
 
