@@ -36,7 +36,7 @@ export default {
         <div class="container-xl">
             <div id="container-header" class="container text-center ">
 
-                    <div class="font" style="font-size: 60px;">MAKE A DIFFERENCE</div>
+                    <div class="font fs-1" >MAKE A DIFFERENCE</div>
                     <p class="font">As long as poverty, injustice & inequality persist, none of us can truly rest</p>
 
                     <div class="container-btn ">
