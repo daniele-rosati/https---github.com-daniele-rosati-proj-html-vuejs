@@ -2,12 +2,20 @@
 import AppHeader from './components/AppHeader.vue';
 import AppHero from './components/AppHero.vue';
 import AppValues from './components/AppValues.vue';
+import AppCause from './components/AppCause.vue';
+import AppArticle from './components/AppArticle.vue';
+import AppChange from './components/AppChange.vue';
+import AppFooter from './components/AppFooter.vue';
 
 export default {
   components: {
     AppHeader,
     AppHero,
-    AppValues
+    AppValues,
+    AppCause,
+    AppArticle,
+    AppChange,
+    AppFooter
   }
 }
 </script>
@@ -18,6 +26,14 @@ export default {
   <AppHero></AppHero>
 
   <AppValues></AppValues>
+
+  <AppCause></AppCause>
+
+  <AppArticle></AppArticle>
+
+  <AppChange></AppChange>
+
+  <AppFooter></AppFooter>
   
 </template>
 
